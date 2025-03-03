@@ -4,4 +4,4 @@ This is a simple MD engine. Different dihedrals of C-C-C-C are generated first. 
 In the case of bonded interactions, harmonic potentials are used for bonds and angles, while Ryckaert-Bellemans function is used for proper dihedrals.
 
 
-    ![Image](https://github.com/user-attachments/assets/4706641c-4f4b-4ef1-8a2e-4ab0b062bd35)
+![Image](https://github.com/user-attachments/assets/4706641c-4f4b-4ef1-8a2e-4ab0b062bd35)
